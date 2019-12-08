@@ -58,11 +58,16 @@ Country.all.each do |country|
     # puts expenses["expenses"][0]["Location"].downcase
     expenses["expenses"].each do |expense|
         # puts expense
+        # name
+        # value
+        # category
+        # continent
+        # Location (country)
         # some of the expenses do not have a designated location
         # so needed a way to account for "nil" in Location
         if expense["Location"].to_s.size > 0
             if expense["Location"].downcase == country.abbr_name
-                Expense.create(name: expense["name"], value: expense["value"], user: user, country: country)
+                Expense.create(name: expense["name"], value: expense["value"], category: expense["category"], continent: expense["continent"], user: user, country: country)
             end
         end
     end
