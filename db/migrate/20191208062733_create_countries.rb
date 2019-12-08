@@ -3,8 +3,6 @@ class CreateCountries < ActiveRecord::Migration[6.0]
     create_table :countries do |t|
       t.string :name
       t.string :abbr_name
-      t.hstore :stats
-      t.hstore :coordinates
 
       t.timestamps
     end
