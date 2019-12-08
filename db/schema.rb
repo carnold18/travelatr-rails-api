@@ -25,6 +25,8 @@ ActiveRecord::Schema.define(version: 2019_12_08_062835) do
   create_table "expenses", force: :cascade do |t|
     t.string "name"
     t.float "value"
+    t.string "category"
+    t.string "continent"
     t.bigint "country_id", null: false
     t.bigint "user_id", null: false
     t.datetime "created_at", precision: 6, null: false
