@@ -1,0 +1,8216 @@
+{ "expenses": [
+    {
+       "name": "Fort Worth meals with Ryan",
+       "value": 30,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Flight to DAL from OAK",
+       "value": 106,
+       "category": "Tr",
+       "continent": "NA",
+       "travel": "T"
+    },
+    {
+       "name": "Gasoline",
+       "value": 20,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "REI - umbrella, ditty sacks, etc",
+       "value": 22.9,
+       "category": "S",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Taco Casa",
+       "value": 4.42,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Bar Louie",
+       "value": 17.61,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Sprouts Groceries",
+       "value": 4.47,
+       "category": "G",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Albertsons Groceries",
+       "value": 4.73,
+       "category": "G",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Sunflower Shop - chlorophyll",
+       "value": 9.17,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "T"
+    },
+    {
+       "name": "Target toiletries",
+       "value": 52.67,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "T"
+    },
+    {
+       "name": "Gasoline",
+       "value": 17.49,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Crocker",
+       "value": 25.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Good Dog",
+       "value": 19.33,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Haircut",
+       "value": 46,
+       "category": "M",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "La Tap",
+       "value": 11.47,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Peet's muffin",
+       "value": 2.71,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Bohemia Beet at MXC Airport",
+       "value": 3.18,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Houston Bus",
+       "value": 11.25,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Tree Garden Korean",
+       "value": 13.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Sbux Coffee",
+       "value": 2.27,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Pickup from IAH",
+       "value": 20,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "T"
+    },
+    {
+       "name": "Load on METRO CARD",
+       "value": 7,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Velvet Taco",
+       "value": 8.88,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Potluck Christmas Ale",
+       "value": 14.55,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Donation at Walmart",
+       "value": 6,
+       "category": "M",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Chipotle",
+       "value": 8.98,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Hot Bagel Shop",
+       "value": 6,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Kolache Factory",
+       "value": 5.15,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "El Tiempo",
+       "value": 27.53,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Pronto Lunch",
+       "value": 9.2,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Kyle's Xmas gift",
+       "value": 22,
+       "category": "P",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Walmart groceries",
+       "value": 15.38,
+       "category": "G",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Pondicherry",
+       "value": 15,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Uber to Grier's",
+       "value": 7.01,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "TJ's",
+       "value": 9.46,
+       "category": "G",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Thai Pepper",
+       "value": 16,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Walgreens toiletries",
+       "value": 4.68,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Subway Lunch",
+       "value": 6.24,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Houston Metro",
+       "value": 5,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Scott's Cheap Flights",
+       "value": 30,
+       "category": "M",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "T"
+    },
+    {
+       "name": "Yogaone Heights",
+       "value": 21,
+       "category": "A",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Beer at Saucer",
+       "value": 7,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Car Towing",
+       "value": 472,
+       "category": "M",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Cane Rosso Dinner",
+       "value": 33,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Boheme - winter warmer beer",
+       "value": 6.41,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Lee's Fried Chicken and Donuts",
+       "value": 12.45,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Sprouts Groceries",
+       "value": 12.5,
+       "category": "G",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Google Drive 100 GB",
+       "value": 21.24,
+       "category": "M",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Xmas Money - Lil Mama",
+       "value": -20,
+       "category": "I",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Xmas Money - Parents",
+       "value": -100,
+       "category": "I",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Lawrence in Arabia - Book",
+       "value": 7.77,
+       "category": "S",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Xmas Gifts",
+       "value": 170,
+       "category": "G",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "NyQuil",
+       "value": 9.29,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Extended Stay",
+       "value": 37.74,
+       "category": "L",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Rainbow Lounge",
+       "value": 36,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "QT",
+       "value": 24.54,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Ume Beer",
+       "value": 1.75,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Kroger Giftcard",
+       "value": -35,
+       "category": "I",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Fences - Cinemark",
+       "value": 8.55,
+       "category": "E",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Groceries - Sprouts",
+       "value": 25.33,
+       "category": "G",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Dry Sack - REI",
+       "value": 48.66,
+       "category": "S",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Gasoline",
+       "value": 5.5,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Buccees Snacks",
+       "value": 5.01,
+       "category": "G",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Key for Doro's Apt",
+       "value": 4.08,
+       "category": "L",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Les Givs",
+       "value": 7.71,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Campesino Coffee",
+       "value": 4.79,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Greyhound HOU to FTW",
+       "value": 33,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "TACOS A GO GO",
+       "value": 8.41,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Love Buzz",
+       "value": 9.93,
+       "category": "D",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Starbucks",
+       "value": 2.27,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Central Market",
+       "value": 4.55,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Sbux",
+       "value": 6.32,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Cinemark - Hidden Figures",
+       "value": 8.55,
+       "category": "E",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Xmas Money - Buckley's",
+       "value": -45,
+       "category": "I",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Chimera - Roman Empire Beer",
+       "value": 5.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Whataburger",
+       "value": 6.38,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Brewed - Beers",
+       "value": 11.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "QT - Gasoline",
+       "value": 16.2,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "FTW",
+       "travel": "NT"
+    },
+    {
+       "name": "Houston Marathon - JIDA",
+       "value": -90,
+       "category": "I",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Burger and Bakery at Moscow Intl",
+       "value": 20.65,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Amazing Hostel Budapest - 3N",
+       "value": 29.4,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Bus + Metro to Amazing Hostel",
+       "value": 2.53,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "MM Cafe breakfast + Grocery Sandwich",
+       "value": 92.14,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Communism Walking Tour + General Tour",
+       "value": 9.05,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Homemade Hostel - 1N",
+       "value": 11.18,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Opera Tour",
+       "value": 10.82,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner for Bence - 2N",
+       "value": 21.71,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Transport Metro",
+       "value": 7.42,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Toilet at Park",
+       "value": 1.45,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Hipster - 1N",
+       "value": 13.04,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Exchange fee HUF to Euros",
+       "value": 1.22,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Burger King",
+       "value": 5.75,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Park n Ride",
+       "value": 13.8,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Night at Kahraman's",
+       "value": 14.8,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hu",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel YouThink - 6N",
+       "value": 80.9,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Budapest to Cluj - Flixbus",
+       "value": 17.17,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Meals",
+       "value": 91.76,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Cluj Turda RT",
+       "value": 6,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Salina Turda",
+       "value": 7.5,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to YouThink",
+       "value": 3,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Cluj to Cheile Turzii RT",
+       "value": 3.5,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Borg Hostel - Sighisoara - 1N",
+       "value": 11.34,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Cluj to Sighisoara Train",
+       "value": 14.9,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Bulevard Dinner",
+       "value": 20.35,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Sighisoara to Brasov Train + Bus",
+       "value": 11.13,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Centrum Hostel - 4N",
+       "value": 53,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Beraria Ciucas Brasov",
+       "value": 75.03,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Train RT Brasov-Sinaia",
+       "value": 12.63,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Peles Musuem - Sinaia",
+       "value": 7.5,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Bran Castle RT",
+       "value": 3.75,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Rasnov Citadel",
+       "value": 3,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Paragliding - ParaMania",
+       "value": 67.5,
+       "category": "A",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Aro Sport - 1N",
+       "value": 21.25,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Brasov - Sibiu Train",
+       "value": 13.8,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel B13 - Sibiu 2N",
+       "value": 35,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Deodorant, Toothpaste, etc",
+       "value": 9.25,
+       "category": "Pc",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Sibiu - Bucharest Train",
+       "value": 18.15,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Scruff Pro Renew",
+       "value": 43.29,
+       "category": "M",
+       "travel": "NT"
+    },
+    {
+       "name": "Ryan's Pub Bucharest",
+       "value": 69.7,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Funny Hostel - 1N",
+       "value": 10.37,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Book A Rest Hostel - 3N",
+       "value": 25.75,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Uber between hostels",
+       "value": 15.57,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "Bucharest to Budapest - 1N",
+       "value": 48.46,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Ro",
+       "travel": "T"
+    },
+    {
+       "name": "FlixBus - Budapest to Ljubljana",
+       "value": 34.4,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Meals on bus to Slovenia",
+       "value": 4.76,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Exchange Fee HUF to Euros",
+       "value": 1.04,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Bakeries",
+       "value": 168.63,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Ljubljana Castle",
+       "value": 8.75,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Vrba Hostel - 1N",
+       "value": 30.32,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Nana's city break - 2N",
+       "value": 44.88,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Jostl Hostel - 3N",
+       "value": 64.46,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Triglav NP",
+       "value": 2.33,
+       "category": "A",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Vintgar Gorge",
+       "value": 5.83,
+       "category": "A",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Hertz Rental Car 3D",
+       "value": 84.36,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Lotion at DM",
+       "value": 3.72,
+       "category": "Pc",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Ljub to Koper Car Share",
+       "value": 5.83,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Villa Domus - 2N",
+       "value": 43.78,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Bicycle for Piran",
+       "value": 9.33,
+       "category": "A",
+       "continent": "EU",
+       "Location": "Sl",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Koper to Pula",
+       "value": 13.69,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Crazy House Hostel - 2N",
+       "value": 49.37,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Food on bus",
+       "value": 2.33,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Bakeries and Burgers and Food",
+       "value": 107.78,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Ride to Beach",
+       "value": 2.38,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Amphitheatre",
+       "value": 7.92,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Antique Hostel - 1N",
+       "value": 21.65,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Stoja Beach RT",
+       "value": 3.48,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Pula to Rijeka - Bus",
+       "value": 7.22,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Kosy - 2N",
+       "value": 45.14,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Apt HU",
+       "value": 3.17,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Opatija",
+       "value": 4.12,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Rijeka to Zagreb - Bus",
+       "value": 7.22,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Bureau - 2N",
+       "value": 39.6,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Karijola Pizza",
+       "value": 12.04,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour",
+       "value": 3.17,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Zagreb to Vienna - Bus",
+       "value": 22.59,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "Bus station breakfast + lunch",
+       "value": 2.99,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "Money Exchange Fee",
+       "value": 0.99,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Hr",
+       "travel": "T"
+    },
+    {
+       "name": "Vienna Metro 48-hr card",
+       "value": 25.81,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "A&T Hostel - 4N",
+       "value": 66.75,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "Snitzel Fan",
+       "value": 42.97,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "Apotheka Meds",
+       "value": 13.3,
+       "category": "Pc",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "Lost Key",
+       "value": 5.83,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Au",
+       "travel": "T"
+    },
+    {
+       "name": "Vienna to Krakow - Bus",
+       "value": 25.54,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Submarine - 2N",
+       "value": 21.82,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Lemon Tree Hostel - 3N",
+       "value": 30.36,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Uber",
+       "value": 4.37,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Bakery Breakfast + All Restaurants / Bars",
+       "value": 36.67,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Bunkier",
+       "value": 10.17,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Auschwitz Birkenau Tour",
+       "value": 44.39,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "24-hr Pierogi Restaurant",
+       "value": 5.44,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Laundry",
+       "value": 2.86,
+       "category": "Pc",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries",
+       "value": 4.44,
+       "category": "G",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Jewish Quarter Tour",
+       "value": 3.72,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Old City Tour",
+       "value": 4.3,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Metro",
+       "value": 1.32,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "FedEx Expedite Credit Card",
+       "value": 15,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Pl",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Prague - Berlin",
+       "value": 26.24,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "U Banh",
+       "value": 35.92,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Craft Beer Bar w/ Iwan",
+       "value": 12.13,
+       "category": "D",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "BerlinPlus Hostel - 2N",
+       "value": 34.27,
+       "category": "L",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "St Christopher's Hostel - 1N",
+       "value": 16.16,
+       "category": "L",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Scheiss Schnitzel",
+       "value": 22.68,
+       "category": "D",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour - Berlin",
+       "value": 7,
+       "category": "E",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Berlin - Hamburg Bus",
+       "value": 16.21,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Jensen Clinic Testing",
+       "category": "Pc",
+       "travel": "NT"
+    },
+    {
+       "name": "Casolare",
+       "value": 22.86,
+       "category": "D",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Lion Burger",
+       "value": 14.93,
+       "category": "D",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Hamburg metro day pass",
+       "value": 7.23,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Tehran + Other Restaurants",
+       "value": 39.54,
+       "category": "D",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Nettto Discount Market",
+       "value": 18.78,
+       "category": "G",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Hamburg - Cuxhaven RT Train",
+       "value": 17.96,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Cuxhaven Beach",
+       "value": 3.5,
+       "category": "A",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Cuxhaven Food",
+       "value": 7.7,
+       "category": "D",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Metro to Ham Airport",
+       "value": 3.73,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "De",
+       "travel": "T"
+    },
+    {
+       "name": "Flight RyanAir Hamburg to Lisbon + Metro",
+       "value": 76.16,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "5 Sins Chiado Hostel - 2N",
+       "value": 37.04,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "travel snacks - Real Cuxhaven",
+       "value": 5.25,
+       "category": "G",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Algarve Airbnb - 2N",
+       "value": 110.5,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Food",
+       "value": 42.86,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Sintra Train RT",
+       "value": 5.13,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Quinta Castle Sintra",
+       "value": 7,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour x 2",
+       "value": 14.58,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Tascantiga Tapas",
+       "value": 14,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Spar in Luz",
+       "value": 17.49,
+       "category": "G",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Rental Car Lisbon to Lagos",
+       "value": 72.31,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Pt",
+       "travel": "T"
+    },
+    {
+       "name": "Bla Bla Car Lagos - Sevilla",
+       "value": 19.5,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Hercules Airbnb - 3N",
+       "value": 99,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Taberna Coloniales",
+       "value": 25.82,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Bakeries",
+       "value": 74.08,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "City Sightseeing Tour",
+       "value": 24.65,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Sevilla to Granada - Amovens Rideshare",
+       "value": 12.83,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Royal Palace + Tour Guide",
+       "value": 22.74,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "El Granado - 3N",
+       "value": 61.58,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Alhambra General Entry",
+       "value": 24.96,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Rosariovaleria",
+       "value": 15.69,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Flamenco",
+       "value": 23.89,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Chocolate churros",
+       "value": 6.27,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Urban Barber Shop - Granada",
+       "value": 17.49,
+       "category": "Pc",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "BCN - OAK Flight",
+       "value": 309.56,
+       "category": "Tr",
+       "continent": "EU",
+       "travel": "T"
+    },
+    {
+       "name": "Granada - Córdoba BlaBla",
+       "value": 15.5,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Flamenco Dinner Cordoba",
+       "value": 52.83,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "HostelSueño - Cordoba 3N",
+       "value": 16.85,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Far Home Atocha Madrid  - 3N",
+       "value": 62.48,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Mercado Victoria - Shisha",
+       "value": 177.27,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Cordoba - Madrid SociBus",
+       "value": 22.74,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Madrid Metro",
+       "value": 7.93,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour Madrid",
+       "value": 9.33,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "B&B Hotel Fuencarral 52 - Madrid - 1N",
+       "value": 162.12,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Ok Hostel Madrid - 1N",
+       "value": 39.6,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Toledo Bus RT",
+       "value": 11.28,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Luggage Storage at Far Home Atocha",
+       "value": 2.33,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Far Home Grana Via Madrid - 1N",
+       "value": 20.53,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "River Hostel Valencia - 2N",
+       "value": 25.8,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "BlaBlaCar Madrid - Valencia",
+       "value": 12.83,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Protection Madrid",
+       "value": 6.76,
+       "category": "Pc",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Valencia Metro",
+       "value": 2.92,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Up! Hostel Valenica - 1N",
+       "value": 14.8,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Meeting Points Hostel Barcelona - 2N",
+       "value": 58.62,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Valencia Libreria y Cafeteria",
+       "value": 125.8,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour Valencia",
+       "value": 5.83,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Silk Exchange",
+       "value": 2.33,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Agua de Valencia - Jonas",
+       "value": 7,
+       "category": "P",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Train to Barcelona",
+       "value": 4.67,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "St  Christopher's Inn - 1N",
+       "value": 36.95,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Metro BCN",
+       "value": 5.02,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to BCN Airport",
+       "value": 6.88,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Earbuds from Airport",
+       "value": 30.31,
+       "category": "S",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "NT"
+    },
+    {
+       "name": "Sanwich on plane BCN-OAK",
+       "value": 8.16,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Es",
+       "travel": "T"
+    },
+    {
+       "name": "Airbnb Prague - 1N",
+       "value": 13,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Boudnik - 4N",
+       "value": 63.5,
+       "category": "L",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Krakow - Prague Bus",
+       "value": 22.16,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Pub Crawl",
+       "value": 25.66,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Lokal + All Restaurants",
+       "value": 51.87,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Uber to Boudnik",
+       "value": 2.81,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Shipping from Prague to Texas",
+       "value": 73.17,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Municipal House Orchestra",
+       "value": 22.53,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Toilet",
+       "value": 0.45,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Cash Only Bar",
+       "value": 8.11,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Metro C",
+       "value": 2.16,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Karlestejn Castle 40-min Tour",
+       "value": 16.22,
+       "category": "A",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Billa Groceries - Dinner w/ Mark",
+       "value": 10.13,
+       "category": "G",
+       "continent": "EU",
+       "Location": "Cz",
+       "travel": "T"
+    },
+    {
+       "name": "Vienna to Bratislava - Bus RT",
+       "value": 8.18,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Sv",
+       "travel": "T"
+    },
+    {
+       "name": "Salas Priroda Meal + Bars",
+       "value": 28.46,
+       "category": "D",
+       "continent": "EU",
+       "Location": "Sv",
+       "travel": "T"
+    },
+    {
+       "name": "Bratislava Tram",
+       "value": 1.63,
+       "category": "Tr",
+       "continent": "EU",
+       "Location": "Sv",
+       "travel": "T"
+    },
+    {
+       "name": "Toilet",
+       "value": 0.93,
+       "category": "M",
+       "continent": "EU",
+       "Location": "Sv",
+       "travel": "T"
+    },
+    {
+       "name": "Bratislava History Musuem",
+       "value": 5.83,
+       "category": "E",
+       "continent": "EU",
+       "Location": "Sv",
+       "travel": "T"
+    },
+    {
+       "name": "Visa Fee - Vietnam",
+       "value": 150,
+       "category": "V",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Printed copies for Visa - Vietnam",
+       "value": 0.5,
+       "category": "V",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Boat Phnom Penh to Chau Doc",
+       "value": 29,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hoa Hung Hotel - Chau Doc 1N",
+       "value": 10.68,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Chau Doc to Can Tho Bus + Taxi",
+       "value": 8.54,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Mekong Delta Inn Hostel - 2N",
+       "value": 11,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner at Hotel",
+       "value": 2.29,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Sweet Bread on Bus + Pho + Coke",
+       "value": 2.54,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Can Tho Market Tour + Taxi",
+       "value": 11.02,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Banh Mi + Beer",
+       "value": 1.22,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Boat Tour Food + Dinner + Snacks",
+       "value": 5.19,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Laundry",
+       "value": 2.5,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Can Tho to Ho Chi Minh + Taxi",
+       "value": 9.2,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "GoCo Hostel Ho Chi Minh - 4N",
+       "value": 30.27,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Phap Hoa - Chay (Vegan Food) + Tea",
+       "value": 2.29,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Cu Chi Tunnels + Tip",
+       "value": 14.61,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Lunch at Street Cart & Bakery",
+       "value": 8.19,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "War Remnants Museum",
+       "value": 3.56,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Breakfast / Lunch",
+       "value": 7.44,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Honda Wave Motorbike",
+       "value": 219.94,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Vegan Lunch + Ice Coffee",
+       "value": 10.88,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Gasoline Fill Up",
+       "value": 20.54,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Toll Road",
+       "value": 0.15,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "La Casa del Latino - 2N",
+       "value": 11.49,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Food (Nyen Chi Cafe)",
+       "value": 21.05,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Fairy Stream Entry",
+       "value": 0.51,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Bike Repair - Leaking Fuel Injector",
+       "value": 13.22,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Oil Change",
+       "value": 12.97,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Me Linh Coffee Garden",
+       "value": 2.8,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Maze Bar - Da Lat",
+       "value": 4.58,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Elephant Waterfall + Ve Tham Quan Silk Factory",
+       "value": 1.53,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Crazy House",
+       "value": 2.03,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Mr Peace Hostel - 2N",
+       "value": 11.49,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Street Food - Nha Trang",
+       "value": 13.98,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Abode Backpackers - 1N",
+       "value": 5.85,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Life's a Beach - 2N",
+       "value": 12.12,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Barbara's Kiwi Cafe - Quy Nhon",
+       "value": 5.59,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Gasoline",
+       "value": 28.64,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Food Quy Nhon to Quang Ngai",
+       "value": 6.69,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "My Tra Riverside Hotel Quang Ngai - 1N",
+       "value": 7.18,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Breakfast at My Tra",
+       "value": 8.93,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Fix Motorbike Lights",
+       "value": 14.36,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "New Glasses",
+       "value": 82,
+       "category": "Pc",
+       "travel": "NT"
+    },
+    {
+       "name": "Basil Restaurant - Hoi An",
+       "value": 14.95,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Tiger Tiger Bar",
+       "value": 3.14,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Gia Bao Backpackers - 2N",
+       "value": 13.47,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Postcards + Postage",
+       "value": 9.43,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "North Face Duffel",
+       "value": 18.4,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Ngoc Hung Hostel Hue - 2N",
+       "value": 9.87,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Water Land Restaurant Hue",
+       "value": 10.86,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hoan Chau Homestay - 2N",
+       "value": 10.1,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Imperial City",
+       "value": 6.73,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Abandoned Water Park",
+       "value": 0.45,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries at Big C",
+       "value": 11.18,
+       "category": "G",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hoan Chau Homestay - 3N",
+       "value": 15.49,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Phong Nha Dining",
+       "value": 14.59,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Dark Cave - Ke Bang National Park Parking",
+       "value": 0.18,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Dark Cave - Ke Bang National Park",
+       "value": 20.2,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Paradise Restaurant Phong Nha",
+       "value": 33.89,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Vuon Thuc Vat Botanical Garden",
+       "value": 1.97,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Pancho",
+       "value": 1.35,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "KFC",
+       "value": 2.87,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hong Kong Hotel Vinh - 1N",
+       "value": 9.38,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Nha Hang Lang Khanh Hotel Tam Coc - 2N",
+       "value": 5.98,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Cuc Phuong Natl Park",
+       "value": 2.96,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Tam Coc Boat Ride",
+       "value": 9.87,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Donation to Boat Lady",
+       "value": 0.9,
+       "category": "Pr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Ferry to Cat Ba",
+       "value": 2.24,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Ngan Chan Restaurant",
+       "value": 41.1,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Lan Ha Bay Tour with Swimming",
+       "value": 16.48,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Cat Ba Langur Hostel - 2N",
+       "value": 7.21,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Bay View Hotel - 1N",
+       "value": 4.49,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Cannon Fort",
+       "value": 1.8,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hydrofoil to Haiphong",
+       "value": 5.84,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Coffee at Cat Ba Ferry",
+       "value": 0.93,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Bike Repairs (rear rack, seat, gear round thing lol)",
+       "value": 25.34,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Parking / Uber in Hanoi",
+       "value": 10.05,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Funky Jungle - 3N",
+       "value": 16.16,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Dragonfly with Kevin (Canadian)",
+       "value": 11.22,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Sapa food",
+       "value": 17.06,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Sapa Tour through Dao's travel - 3N",
+       "value": 86.54,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Scarf in Lao Chai",
+       "value": 5.9,
+       "category": "P",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Swan Hostel - 4N",
+       "value": 20.57,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "lAcA + Street Food / Beer",
+       "value": 28.07,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Laundry",
+       "value": 3.77,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Ho Chi Minh House",
+       "value": 1.8,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Rendezvous Hostel - 2N",
+       "value": 9.27,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Roti / Kem Trang",
+       "value": 52.74,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hanoi Art Gallery",
+       "value": 5.84,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Tori Spa Facial",
+       "value": 9.87,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Gia Thinh Hotel - 1N",
+       "value": 22.78,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Hoa Lo Prison",
+       "value": 1.35,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Headphones",
+       "value": 4.49,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Airport",
+       "value": 1.35,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Flight to Japan United",
+       "value": 100,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Reservation for Khaosan Tokyo Origami - 4N",
+       "value": 100.83,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "RT Flight to Asia",
+       "value": 590,
+       "category": "Tr",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "Narita Skyaccess Train to Tokyo",
+       "value": 11.6,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Street Ramen at 320",
+       "value": 3.78,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro C13 to C3",
+       "value": 1.8,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Santa Monica Crepes",
+       "value": 4.5,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro G2 to G19",
+       "value": 2.16,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro G19 to G10",
+       "value": 1.8,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro H11 to M10",
+       "value": 1.8,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Ichiran Sinjuku Ramen",
+       "value": 9.08,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "711 Strawberry Donut",
+       "value": 1.08,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro M10 to G19",
+       "value": 2.16,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Owl Cafe",
+       "value": 13.49,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro G19 to G09",
+       "value": 1.8,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Sukiya - Ging pork bowl w/ cod caviar & mayo",
+       "value": 4.16,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Nezu Museum of Art",
+       "value": 9.62,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro G09 to G19",
+       "value": 1.75,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro G19 to G02",
+       "value": 2.1,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Sushi Restaurant in Harajuku",
+       "value": 17.49,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Nezu Postcards",
+       "value": 2.62,
+       "category": "P",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Cider at La Jee Delice",
+       "value": 4.37,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro F15 to F13",
+       "value": 1.49,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro S02 to A18",
+       "value": 2.36,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Family Mart Mochi & Sandwich",
+       "value": 3.01,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Asakusa Train to Narita",
+       "value": 11.28,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Metro G19 to M09 RT",
+       "value": 4.2,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "711 Lunch / Snacks",
+       "value": 5.09,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Exchange fee - Leftover Yenn to USD",
+       "value": 0.7,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Ja",
+       "travel": "T"
+    },
+    {
+       "name": "Currency Shipping Cost",
+       "value": 7,
+       "category": "M",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "travel Book",
+       "value": 15.49,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Debit Card Expedite",
+       "value": 15,
+       "category": "M",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "Khaosan Immjai Hostel - 6N",
+       "value": 53.48,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Bangkok to Siem Reap Flight",
+       "value": 115.95,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Transport to Hostel - Khaosan Rd",
+       "value": 2.97,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Accidental Online Booking",
+       "value": 3.71,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Pad Thai Chicken - Khaosan Palace Street",
+       "value": 1.48,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Lucky Beer - Chang Draft",
+       "value": 3.56,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Jeng's Late Lunch",
+       "value": 3.27,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner and Beer",
+       "value": 5.05,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Nitrous Oxide Balloons",
+       "value": 7.42,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Scorpion",
+       "value": 2.38,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Day Trip to Dam Sadurak + Ta Lad Ram Hoob / Maeklong Railway Mkt",
+       "value": 13.36,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Little India Food",
+       "value": 1.19,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Chinatown street food",
+       "value": 0.3,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Masamman Curry and Singha",
+       "value": 5.94,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Tiger Balm at Floating Market+Bathroom",
+       "value": 4.6,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner - Krua Apsorn",
+       "value": 2.97,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Stamps for 5 postcards + 2 postcards",
+       "value": 4.16,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Booze from Khaosan",
+       "value": 9.2,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Samosas (2)",
+       "value": 0.59,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "McDonald's",
+       "value": 2.38,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Smoothie",
+       "value": 1.48,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Fried noodles + Water",
+       "value": 1.78,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Chang Beer at 711",
+       "value": 1.48,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Foot Fish Bath",
+       "value": 4.45,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi",
+       "value": 2.67,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Coke at 711",
+       "value": 0.5,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Whiskey at 711",
+       "value": 2.23,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Beer at Ladyboy Street",
+       "value": 4.16,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Ladyboy Bar Club",
+       "value": 5.34,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Shot at strip club",
+       "value": 5.34,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Mcdonalds",
+       "value": 9.8,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Fried noodles with tofu and egg",
+       "value": 1.78,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Tequila shot on street",
+       "value": 2.38,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Thai Massage",
+       "value": 7.42,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Watermelon Pineapple Smoothie",
+       "value": 1.19,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Bangkok to Koh Tao RT",
+       "value": 54.33,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Summer Hostel Koh Tao - 3N",
+       "value": 28.61,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Water Taxi - Phanfa Leelard to Pratunam",
+       "value": 0.33,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries",
+       "value": 4.65,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Street food at Siam",
+       "value": 1.19,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Golden Mount",
+       "value": 0.59,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Coke and water at corner store",
+       "value": 0.48,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Liquor from Corner Store",
+       "value": 9.32,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner and snacks",
+       "value": 4.31,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Yummy Restaurant",
+       "value": 2.61,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Bus stop chicken curry",
+       "value": 1.7,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Nas Krua Thai Resraurant - Koh Tao",
+       "value": 2.27,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Motor Bike - 24 hrs",
+       "value": 4.26,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Entry to Freedom Beach + Lookout",
+       "value": 2.84,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Pizza Dinner+Beer",
+       "value": 8.52,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Mama Piyawan's",
+       "value": 1.99,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Fruit Juice from Smile Mart Supermarket",
+       "value": 0.99,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Mama Piyamans + Wine + Beer",
+       "value": 4.52,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Drinks at Cock and Mocktail",
+       "value": 5.68,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Lunch and Drink",
+       "value": 2.56,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Snorkeling",
+       "value": 11.36,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner and drinks",
+       "value": 7.81,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to Crystal Dive",
+       "value": 2.84,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Doctor Checkup for Scuba Clearance",
+       "value": 5.68,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Crystal Dive Scuba Certification and 4 Dives",
+       "value": 246.14,
+       "category": "A",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "Crystal Dive Resort Bungalow - 4N",
+       "value": 39.77,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "2 kg laundry",
+       "value": 2.27,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Yellow Hut parang curry",
+       "value": 1.7,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries from Smile Market",
+       "value": 5.54,
+       "category": "G",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "The Living Room Coffee Bar",
+       "value": 0.85,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Zaap 60 Restaurant - Fried Chicken and Rice",
+       "value": 1.7,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Vegetarian La Carrote Qui Rit Vegan",
+       "value": 5.68,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "711 Lunch",
+       "value": 2.13,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Crystal Bar",
+       "value": 4.26,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Thai Restaurant by Crystal",
+       "value": 4.54,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Coconut Monkey - Egg, spinach wrap + Water",
+       "value": 4.26,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Video of 1st Dive",
+       "value": 29.26,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Advanced Scuba Course",
+       "value": 211.68,
+       "category": "A",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "PP Hotel - 2N",
+       "value": 34.09,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Paprika - (Massaman Curry + Rice)*2 + Coke + Beer",
+       "value": 8.58,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Street Sandwich + Waters",
+       "value": 2.56,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Pook Restaurant - Coconut Soup w/ Rice",
+       "value": 2.84,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "This Little Book Cafe - Thai Tea",
+       "value": 2.27,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Nana Thai Food - Fried noodles + chicken",
+       "value": 2.13,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Mania's Mart - travel Snacks",
+       "value": 3.83,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Fried Rice - Songserm Chumphorn Station",
+       "value": 1.14,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "BKK to Ayutthaya Train RT + Bathroom + Ferry - 2 hr",
+       "value": 1.22,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Allsum Hostel - 2N",
+       "value": 14.2,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "711 lemonade",
+       "value": 0.57,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Ayutthaya National Park (2 entrances)",
+       "value": 2.84,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Street Market and Beer",
+       "value": 5.57,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Crispy Noodles + Chicken + Beer + Water",
+       "value": 3.37,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Night Street Market - Sticky Rice/Mango, Coconut Pancakes, Omelette, Beer",
+       "value": 4.17,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "RT Train/Ferry Ayutthaya to Lopburi",
+       "value": 1.02,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Phra Prang Sam Yot",
+       "value": 1.42,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Sleepaholic Hostel - 1N",
+       "value": 7.67,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Food for Lopburi + Ayutthaya",
+       "value": 7.98,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Blue Jasmine Hostel - 2N",
+       "value": 22.63,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Lunch / Dinner Ayutthaya",
+       "value": 5.86,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Tuk Tuk Ayutthaya",
+       "value": 0.71,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "iBeat Camera Adapter",
+       "value": 34.27,
+       "category": "M",
+       "travel": "NT"
+    },
+    {
+       "name": "711 Dinner+AirportMeal+Beer",
+       "value": 7.49,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "RT Uber to Lash's Apt - 501",
+       "value": 4.74,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Train from BKK to Don Mueng Airport",
+       "value": 0.57,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "BKK Dinner Airport",
+       "value": 8.91,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Th",
+       "travel": "T"
+    },
+    {
+       "name": "Visa on Arrival",
+       "value": 30,
+       "category": "V",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Central Hostel - 3N",
+       "value": 15,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi Airport to Central Hostel",
+       "value": 2,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Breakfast at Central Hostel",
+       "value": 3,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Footprint Cafe - Smoothies",
+       "value": 5.13,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Market - Tank Top / Pants",
+       "value": 6,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Angkor Pass",
+       "value": 37,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Transportation to AW 2 Days",
+       "value": 5.5,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner and Beer Night 2",
+       "value": 13,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Cold Prescription Meds",
+       "value": 5.9,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Wat Meals / Drinks",
+       "value": 8,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Night Bus SR to PP - 1N",
+       "value": 10,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Khmer Curry + Rice + Beer",
+       "value": 7.75,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Sokkong's Coffee - Bfast",
+       "value": 4,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Happy Hostel Zone -4N",
+       "value": 57.38,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Saturday night beer+dinner",
+       "value": 12.25,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Breakfast - Smoothie",
+       "value": 1.25,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Cambodia History Museum + Tuol Sleng Genocide Museuem + Killing Fields",
+       "value": 17,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Lunch +Dinner",
+       "value": 13,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "RT to Killing Fields",
+       "value": 8,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Istanbul 24/7 Falafel and Hummus Wrap",
+       "value": 4.5,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Kabbas Lunch + Coke + Dinner + Beer",
+       "value": 9.7,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "2 Bracelets from kids",
+       "value": 2,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Courtyard Guesthouse - 3N",
+       "value": 15,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Banlung",
+       "value": 33.5,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Frenchie traveller?",
+       "value": 5,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Snacks at Mini Mart",
+       "value": 6.4,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Breakfast in Chrey + Dinner in Banlung + Redbull",
+       "value": 4.63,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Lucky Tours Jungle Trek - 1N",
+       "value": 66,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Sunscreen Lotion",
+       "value": 3.75,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Anchor Beer in Lang's Village + Sprite",
+       "value": 1.38,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Eighty 8 Hostel - 1N",
+       "value": 6.4,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Village Tour + Crater Lake Yeak Laom",
+       "value": 12,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Breakfast - Rice noodles & green fish soup + sugar cane drink + beer/noodles + beer",
+       "value": 6,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Ratanakiri Donations",
+       "value": 5,
+       "category": "P",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Street Dinner Phnom Penh",
+       "value": 13.88,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ca",
+       "travel": "T"
+    },
+    {
+       "name": "Eczema Cream - Acrason",
+       "value": 2,
+       "category": "Pc",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "India Visa Paperwork",
+       "value": 19.87,
+       "category": "V",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Visa Fee",
+       "value": 124.2,
+       "category": "V",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Malaria Pills",
+       "value": 31.23,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Malaria Pills",
+       "value": 31.23,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Vi",
+       "travel": "T"
+    },
+    {
+       "name": "Starbucks iced coffee",
+       "value": 3.65,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Photocopies at border",
+       "value": 0.08,
+       "category": "M",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Panatanki to Siliguri - Bus",
+       "value": 0.4,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Snacks",
+       "value": 2.83,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jeep Saliguri to Darjeeling RT",
+       "value": 4.53,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Food Darjeeling",
+       "value": 5.3,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Prestige - 2N",
+       "value": 16.17,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "BahuuBali Film",
+       "value": 1.89,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Siliguri to Kolkata Bus + Taxi - 1N",
+       "value": 14.5,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "AirBnb Kolkata -3N",
+       "value": 36,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Kolkata Food (Biswa Bandhu)",
+       "value": 29.23,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Victoria Memorial",
+       "value": 3.12,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "28 GB Vodaphone Data Plan (Didn't Work)",
+       "value": 16.32,
+       "category": "S",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Paneer Roll + Masala Soda",
+       "value": 1.48,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "India Museum",
+       "value": 7.79,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Dahl for homeless lady (Seema)",
+       "value": 0.78,
+       "category": "P",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Flight Kolkata to Goa",
+       "value": 112.1,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Wireless Adapter",
+       "value": 31.18,
+       "category": "M",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jungle Hostel - 3N",
+       "value": 14.08,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Uber to Kolkata Airport",
+       "value": 4.23,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Dabolim to Vasco to Panaji to Mapusa to Vajator",
+       "value": 1.22,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Goa Food",
+       "value": 39.05,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Goa to Hampi Bus + Taxi - 1N",
+       "value": 15.42,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to Anjuna RT",
+       "value": 2.6,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Wartosin + Budanase Spray + Toothbrush",
+       "value": 4.65,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Rocky Guesthouse Hampi - 2N",
+       "value": 23.29,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Yoga Class",
+       "value": 3.12,
+       "category": "A",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hampi Food",
+       "value": 17.98,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Entry to Hampi Temples",
+       "value": 17.46,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hampi to Hospet to Gadag to Badami to Bijapur",
+       "value": 9.84,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Lunch in Badami",
+       "value": 4.29,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Badami Caves + Museum",
+       "value": 3.2,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Bijapur Dinner at Hotel Pearl",
+       "value": 7.95,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Train Bijapur to Mumbai + Tuk Tuk +Taxi - 1N",
+       "value": 7.79,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Gol Gumbaz + Ibrahim Rouza",
+       "value": 6.47,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Pearl - Bijapur - 1N",
+       "value": 15.15,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Marriott Breakfast",
+       "value": 17.46,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Golden Nest - 2N",
+       "value": 19.49,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Postcards",
+       "value": 5.3,
+       "category": "P",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jet Airways - Mumbai to Udaipur",
+       "value": 89.13,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Mumbai Street Food",
+       "value": 12.24,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Mumbai Metro",
+       "value": 0.47,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Earphones",
+       "value": 13.87,
+       "category": "S",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Date with Abi - Mumbai",
+       "value": 19.49,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Night Bus Udaipur to Jodhpur + Uber - 1N",
+       "value": 7.95,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Udaipur Food",
+       "value": 9.37,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Udaipur Palace Museum",
+       "value": 8.26,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Elephant Tapestry",
+       "value": 34.14,
+       "category": "S",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jodhpur Food",
+       "value": 19.45,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Deodorant + Lotion + Toothpaste",
+       "value": 5.92,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jodhpur Fort + Marble Temple",
+       "value": 10.13,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Transportation within Jodhpur",
+       "value": 2.42,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Incrdible Krishna Cooking Class - Jodhpur",
+       "value": 18.71,
+       "category": "A",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "HosteLaVie Jodhpur - 3N",
+       "value": 19.63,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jodhpur to Pushkar Bus",
+       "value": 6.86,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Souvenirs - 2 Pcases, 1 Poof seat, 1 Masala Chai Mix",
+       "value": 14.03,
+       "category": "P",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Pushkar Food",
+       "value": 9.35,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Mad packers Hostel Pushkar - 2N",
+       "value": 11.09,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Pants - Ashley + Nique + Benjy + Dad",
+       "value": 17.93,
+       "category": "P",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Pushkar to Jaipur Bus",
+       "value": 3.12,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jaipur Food",
+       "value": 39.85,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jaipur Transport",
+       "value": 8.41,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Pearl Foods Natural Ice Cream",
+       "value": 2.34,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Entrance to all Jaipur Museums",
+       "value": 15.9,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Roadhouse Hostel - 3N",
+       "value": 17.91,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Train Jaipur to Ranthambore",
+       "value": 7.79,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Ranthambhore Safari + Park Entry",
+       "value": 40.14,
+       "category": "A",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Rajputana Heritage Hotel - 1N",
+       "value": 11.88,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Ranthambhore to Agra - 8 hrs",
+       "value": 3.43,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Rajputana Food",
+       "value": 12.36,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Agra Food",
+       "value": 26.39,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Taj Mahal",
+       "value": 15.59,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Transport w/in Agra",
+       "value": 2.73,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Fatephur Sikri - Victory City",
+       "value": 14.03,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Zostel Agra - 3N",
+       "value": 17.46,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Agra to Delhi - Train",
+       "value": 7.23,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Madpackers Delhi - 2N",
+       "value": 17.13,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "RHT Clinic Meds/Consultation",
+       "value": 8.42,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Delhi Transport",
+       "value": 16.56,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Delhi Food",
+       "value": 42.35,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "The Hosteller Delhi - 4N",
+       "value": 34.81,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Red Fort Delhi",
+       "value": 7.79,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Tandoori Spice Dad",
+       "value": 5.46,
+       "category": "Pr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Dal Makhni Spice",
+       "value": 3.49,
+       "category": "S",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Old Delhi Rickshaw",
+       "value": 1.87,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "H&M Hat",
+       "value": 12.42,
+       "category": "S",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Delhi to Budapest Flight",
+       "value": 297.34,
+       "category": "Tr",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "Humayam's Tomb",
+       "value": 7.79,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Delhi to Rishikesh Bus",
+       "value": 14.81,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Joey's Hostel Delhi - 1N",
+       "value": 6.22,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Shiv Sakti Hostel Rishikesh - 2N",
+       "value": 12.47,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Gift Shipping",
+       "value": 102.66,
+       "category": "M",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Stops Hostel Delhi - 1N",
+       "value": 7.79,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Delhi to Rishikesh Bus",
+       "value": 8.57,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Rishikesh Food",
+       "value": 51.91,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "PublicToilet",
+       "value": 0.16,
+       "category": "M",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Shiv Shakti Rishikesh - 3N",
+       "value": 20.71,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Temple + Waterfall x 2 + Cave Tour",
+       "value": 10.44,
+       "category": "A",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Tourist Guest House - 2N",
+       "value": 15.59,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Peepal - 2N",
+       "value": 42.87,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Bar of Soap",
+       "value": 0.2,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Rishi to Haridwar to Amritsar Train - 1N",
+       "value": 18.53,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Jugaadus Hostel Amritsar - 3N",
+       "value": 17.39,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Beatles Ashram",
+       "value": 9.35,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Rickshaw to Jugaduus",
+       "value": 1.09,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Amritsar foodz",
+       "value": 11.07,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Pakistan Border Tour",
+       "value": 2.34,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Seema's Cooking Class",
+       "value": 1.56,
+       "category": "A",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Barrels Microbrewery",
+       "value": 13.72,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Bus + Rickshaw Amritsar to Dharamsala",
+       "value": 12.47,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Golden Temple Tour",
+       "value": 3.12,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Laundry at Jugaadus",
+       "value": 2.34,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Amritsar Food Tour",
+       "value": 5.92,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Omstar Cafe Macleod Banj",
+       "value": 1.71,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "HosteLaVie Macleodganj - 4N",
+       "value": 24.16,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Macleoadganj food",
+       "value": 34.68,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Dharamsala to Delhi - 1N",
+       "value": 17.15,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Moving Expenses",
+       "value": 209.63,
+       "category": "M",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Monthly Storage Fee June, July",
+       "value": 253.25,
+       "category": "M",
+       "continent": "NA",
+       "Location": "HOU",
+       "travel": "NT"
+    },
+    {
+       "name": "Hanging lantern for parents + earrings",
+       "value": 42.09,
+       "category": "P",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Bike Key Holder (wall mounted)",
+       "value": 6.24,
+       "category": "S",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Joey's Hostel - 1N",
+       "value": 6.24,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Tuk Tuk to Joeys from Laxmi Holidays Bus",
+       "value": 3.12,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Haircut at Spa",
+       "value": 4.05,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Altitude Organic",
+       "value": 35.01,
+       "category": "D",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Transport Delhi",
+       "value": 9.97,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Tashkent Palace - 1N",
+       "value": 16.84,
+       "category": "L",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Qutub Minar",
+       "value": 7.79,
+       "category": "E",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Azithromycin for Strep Throat",
+       "value": 1.64,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Nasal spray + eczema cream",
+       "value": 6.03,
+       "category": "Pc",
+       "continent": "EU",
+       "travel": "T"
+    },
+    {
+       "name": "WePhone",
+       "value": 5,
+       "category": "M",
+       "continent": "AS",
+       "Location": "In",
+       "travel": "T"
+    },
+    {
+       "name": "Hanoi to Kathmandu Flight",
+       "value": 320.45,
+       "category": "Tr",
+       "continent": "AS",
+       "travel": "T"
+    },
+    {
+       "name": "Mail Hiking Clothes",
+       "value": 16.5,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Visa Photos + Visa",
+       "value": 45.8,
+       "category": "V",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Scruff Pro",
+       "value": 43.29,
+       "category": "M",
+       "continent": "AS",
+       "travel": "NT"
+    },
+    {
+       "name": "Exchange Fee Loss at BKK",
+       "value": 18.39,
+       "category": "M",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Permit for Annapurna",
+       "value": 20,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "ACAP",
+       "value": 20,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Flight to Pokhara from Kathmandu",
+       "value": 122,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Meal at Pedhi",
+       "value": 5,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Food on Trek",
+       "value": 109.7,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Lodging on Annapurna - 6N",
+       "value": 9,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Transport to/from Phedi/Siwai",
+       "value": 9.5,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Potala Restaurant",
+       "value": 3,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Sunny Garden Pokhara",
+       "value": 77.62,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel Mountain Top",
+       "value": 2.5,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Seeing Hands Massage",
+       "value": 20,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Saleways Groceries",
+       "value": 1.89,
+       "category": "G",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Mahendrapool + Gurkha Memorial",
+       "value": 0.65,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Gurkha Memorial Museum",
+       "value": 2,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Bus / Boat RT to World Peace Pagoda",
+       "value": 1.8,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Fishtail Villa Hotel - 4N",
+       "value": 25,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Postcards / stamps",
+       "value": 1.3,
+       "category": "P",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Bus - Pohkara to Lumbini",
+       "value": 8.5,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Laundry",
+       "value": 2,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Street Samosas (2)",
+       "value": 0.4,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Buddha Bhoomi Hotel - 2N",
+       "value": 26,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Lumbini Meals",
+       "value": 11.7,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Lumbini Musuem + Birthplace",
+       "value": 2.5,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Hotel National Park Chitwan  - 2N",
+       "value": 17.44,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Lumbini to Tandi",
+       "value": 6.78,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Food in Chitwan",
+       "value": 11.61,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Jungle Trek / Jeep / Canoe - Chitwan",
+       "value": 49.78,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Chitwan National Park",
+       "value": 17,
+       "category": "A",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Insect Repellant",
+       "value": 5.81,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Chitwan to KTM - Aircon :-)",
+       "value": 7.75,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "KTM Food",
+       "value": 54.22,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Rine-5 Levocetrizine Dihydrochloride 5 mg 20 tablets",
+       "value": 1.26,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner at Places Vegetarian Rest in KTM",
+       "value": 7.36,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "P + Bhoudanath + Royal Palace + Patan + Garden of Dreams",
+       "value": 28.59,
+       "category": "E",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi KTM",
+       "value": 5.18,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Souvenirs - Ohm Bowl + Candle Holder",
+       "value": 25,
+       "category": "S",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Chapstick",
+       "value": 0.5,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Pappu Barber Shop",
+       "value": 4,
+       "category": "Pc",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Himalaya - 4N",
+       "value": 20.16,
+       "category": "L",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Third Eye Restaurant - Indian KTM",
+       "value": 10.17,
+       "category": "D",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "Bus KTM to Kakarvitta - 1N",
+       "value": 14.53,
+       "category": "Tr",
+       "continent": "AS",
+       "Location": "Ne",
+       "travel": "T"
+    },
+    {
+       "name": "SW flight to NYC",
+       "value": 5.6,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Metro Card",
+       "value": 36,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "LIRR",
+       "value": 11.5,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Grimaldi's",
+       "value": 19,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Oyster Bay Brewing",
+       "value": 16,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Bagel Shop",
+       "value": 2.45,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Med Station Checkup",
+       "value": 90,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "NT"
+    },
+    {
+       "name": "Walgreens Prescriptions",
+       "value": 23.68,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "NT"
+    },
+    {
+       "name": "Walgreens Deodorant / Moisturizer",
+       "value": 10.08,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "LIRR to Penn Station",
+       "value": 9.5,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Blue Ribbon Fried Chicken",
+       "value": 16.82,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Cafe Mogador - Moroccan",
+       "value": 28.36,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Good Beer NYC",
+       "value": 10,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "$1 Pizza Place 2nd Ave / 4th St",
+       "value": 2,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Indian Buffet - Brooklyn Curry",
+       "value": 18.32,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "East Wick",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Dominican Barber Shop",
+       "value": 15,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Flaming Saddles Drink",
+       "value": 13,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Bar Nine - Hells Kitchen, Sweet Baby Jesus Beer",
+       "value": 20,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Sleep No More",
+       "value": 110,
+       "category": "E",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Scores Drink",
+       "value": 27,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Backpack check",
+       "value": 4,
+       "category": "M",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "SNM Drink - Negroni",
+       "value": 18,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Found dollar on Washington Ave",
+       "value": -1,
+       "category": "I",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Her name is Han",
+       "value": 35.68,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Uber to Ethan",
+       "value": 6.67,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Moishers Kosher Bakery",
+       "value": 3.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Central Station Pub - Bushwick",
+       "value": 17.95,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Salted Caramel Ice Cream",
+       "value": 7.99,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Golden Unicorn Dimsum",
+       "value": 20.3,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Crown Inn Brooklyn - Rockaway Blk Gold Stout",
+       "value": 6,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Bearded Lady Brooklyn - Singlecut Stout",
+       "value": 12,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Banh Mi Place",
+       "value": 10,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Campari for Trevor's bar",
+       "value": 31,
+       "category": "P",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "McDonalds at JFK",
+       "value": 7.72,
+       "category": "D",
+       "continent": "NA",
+       "Location": "NYC",
+       "travel": "T"
+    },
+    {
+       "name": "Flight to Denver",
+       "value": 135,
+       "category": "Tr",
+       "continent": "NA",
+       "travel": "T"
+    },
+    {
+       "name": "Coffee and toothpaste",
+       "value": 2.67,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Denver Beer Co",
+       "value": 8.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Wendy's",
+       "value": 3,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "McDonald's",
+       "value": 6.76,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "RMNP",
+       "value": 10,
+       "category": "A",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Gasoline",
+       "value": 9,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Sonic",
+       "value": 3.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Drinks at Tap IV",
+       "value": 20,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Drink at Wynkoop",
+       "value": 6,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Pablo's Coffee",
+       "value": 9,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Parking",
+       "value": 2.5,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Cash from ATM",
+       "value": 15,
+       "category": "M",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Flanders",
+       "value": 30,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Wrangler",
+       "value": 4,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Boulder Parking",
+       "value": 4,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Gasoline",
+       "value": 16.58,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "The Cork Omelet",
+       "value": 9,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "RTD Train",
+       "value": 9,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Wendy's",
+       "value": 3.96,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Rental Car Denver",
+       "value": 88,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Living Denver",
+       "value": 70,
+       "category": "L",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Molecule Coffee Denver",
+       "value": 8.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Denver parking ticket",
+       "value": 25,
+       "category": "M",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Ruperts on the Edge",
+       "value": 20,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Larimer Beer Hall",
+       "value": 5.3,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Recess Beer",
+       "value": 30,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Great Divide",
+       "value": 7,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Hayter's and Co",
+       "value": 22,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "McDonald's",
+       "value": 2.7,
+       "category": "D",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Target for Lotion/Toothpaste",
+       "value": 3.7,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "USPS",
+       "value": 13.45,
+       "category": "M",
+       "continent": "NA",
+       "Location": "DEN",
+       "travel": "T"
+    },
+    {
+       "name": "Flight to Seattle",
+       "value": 89,
+       "category": "Tr",
+       "continent": "NA",
+       "travel": "T"
+    },
+    {
+       "name": "SEA-Tac Train",
+       "value": 3,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "City Hostel",
+       "value": 209.49,
+       "category": "L",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Tandoori Hut",
+       "value": 25,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Bakery Piroshky",
+       "value": 6.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Goodfellows Coffee",
+       "value": 8.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Diablo Coffee",
+       "value": 2,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Belltown Pub",
+       "value": 12.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Uber to Cap Hill",
+       "value": 4,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Captain Black's Beer",
+       "value": 5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "McDonald's",
+       "value": 3.8,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Pho Viet Anh",
+       "value": 17.52,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Top Pot Doughnuts",
+       "value": 2.51,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Local Color Coffee",
+       "value": 7,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "R Place Bar",
+       "value": 24,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Oddfellows",
+       "value": 8.35,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Bedlam Coffee",
+       "value": 5.18,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Belltown Pub",
+       "value": 8,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Biscuit Bitch",
+       "value": 14.36,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Elysian Brew Pub",
+       "value": 38.51,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Starbucks Roastery",
+       "value": 6.03,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "QFC - Doritos",
+       "value": 3.99,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Underground Tour",
+       "value": 20,
+       "category": "E",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Underground Cafe - Beer",
+       "value": 8,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SEA",
+       "travel": "T"
+    },
+    {
+       "name": "Bolt Bus to PDX",
+       "value": 18,
+       "category": "Tr",
+       "continent": "NA",
+       "travel": "T"
+    },
+    {
+       "name": "Honne Concert at Wonder Ballroom",
+       "value": 21.5,
+       "category": "E",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "HI Hostel",
+       "value": 80.5,
+       "category": "L",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Trader Joe's",
+       "value": 15.25,
+       "category": "G",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Fat Heads Brewery",
+       "value": 10.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Slayers Porter @ Wonder",
+       "value": 7,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Poke Mon Asian",
+       "value": 8.92,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "TOV Coffee",
+       "value": 8.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Fred Meyer Deterg",
+       "value": 1.87,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Hay Tai",
+       "value": 14,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Pine State Biscuits",
+       "value": 9.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Vodoo Donuts",
+       "value": 10,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Barista Coffee (Spin Cycle Red Beer)",
+       "value": 5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Parking in Nob Hill",
+       "value": 4.22,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Bamboo Sushi",
+       "value": 8.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Mong's Khao Man Gai",
+       "value": 14.66,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Binks Bar",
+       "value": 19,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "TOV Coffee",
+       "value": 3.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Hot Lips Pizza",
+       "value": 10.12,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Airbnb",
+       "value": 130,
+       "category": "L",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Rental car and Gas",
+       "value": 28,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Petite Provence Brunch",
+       "value": 14.88,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Burger King",
+       "value": 3.75,
+       "category": "D",
+       "continent": "NA",
+       "Location": "PDX",
+       "travel": "T"
+    },
+    {
+       "name": "Rental Car + Gas PDX to OAK",
+       "value": 65,
+       "category": "Tr",
+       "continent": "NA",
+       "travel": "T"
+    },
+    {
+       "name": "Lyft from OAK to SF",
+       "value": 20.5,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Juice Cleanse",
+       "value": 25,
+       "category": "G",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Samovar",
+       "value": 7,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Massage",
+       "value": 55,
+       "category": "M",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Ferry SF to OAK",
+       "value": 6.6,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Dee Spot Oakland",
+       "value": 4.83,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "900 Grayson",
+       "value": 23.32,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Kingfish Pub OAK",
+       "value": 12,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "BART OAK to SF",
+       "value": 3.8,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Tip for massage",
+       "value": 20,
+       "category": "M",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Tunnel Top Bar beer",
+       "value": 12.88,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries - Safeway",
+       "value": 14.29,
+       "category": "G",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries - Trader Joes",
+       "value": 14.26,
+       "category": "G",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Spinlister Bike",
+       "value": 22.5,
+       "category": "A",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Fieldworks Brewery",
+       "value": 21,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Regency Ballroom Beer",
+       "value": 9,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Dog Eared Books",
+       "value": 25.01,
+       "category": "S",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Duc Loi Banh Mi",
+       "value": 10.04,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Bi Rite Creamery",
+       "value": 6,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Cocorosie Concert",
+       "value": 40.5,
+       "category": "E",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Edibles",
+       "value": 15,
+       "category": "G",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Lyft to OAK",
+       "value": 27.15,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Tartine",
+       "value": 14.28,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Sunflower Vietnamese",
+       "value": 24.5,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "T"
+    },
+    {
+       "name": "Bart Card",
+       "value": 44.2,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Ramen JapanTown",
+       "value": 14.35,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Target Groceries",
+       "value": 10,
+       "category": "G",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Toiletries Target",
+       "value": 40,
+       "category": "Pc",
+       "continent": "NA",
+       "travel": "NT"
+    },
+    {
+       "name": "Social Study + Salt&Straw",
+       "value": 20,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Shoes from GoodWill",
+       "value": 9,
+       "category": "S",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Sheba",
+       "value": 150.05,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Safeway",
+       "value": 46.55,
+       "category": "G",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "California Academy + SF Moma",
+       "value": 15,
+       "category": "E",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Cal Academy RT Lyft",
+       "value": 7,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Scruff Pro Renew",
+       "value": 43.29,
+       "category": "M",
+       "continent": "NA",
+       "travel": "NT"
+    },
+    {
+       "name": "Vik’s Chaat + Beer",
+       "value": 20,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "iCloud Storage",
+       "value": 2.99,
+       "category": "M",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Vinyl Coffee",
+       "value": 8.28,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Burma Superstar",
+       "value": 32,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Laundry",
+       "value": 10,
+       "category": "Pc",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "Taqueria + Salt & Straw",
+       "value": 33.94,
+       "category": "D",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "SFO - DFW",
+       "value": 62.2,
+       "category": "Tr",
+       "continent": "NA",
+       "Location": "SFO",
+       "travel": "NT"
+    },
+    {
+       "name": "RT Flight to Peru",
+       "value": 643,
+       "category": "Tr",
+       "continent": "SA",
+       "travel": "T"
+    },
+    {
+       "name": "Machu Picchu",
+       "value": 250,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Pariwana - 2 nights",
+       "value": 21.79,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Millhouse Hostel Cusco - 3 nights",
+       "value": 31.75,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to Miraflores",
+       "value": 17.76,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Huaca Pucllana Tour - 45 min",
+       "value": 3.56,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "RT bus to Plaza de Armas",
+       "value": 1.48,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Bottle Water",
+       "value": 0.74,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour (2 hrs)",
+       "value": 2.97,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "La Lucha",
+       "value": 5.3,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "McDonald's",
+       "value": 4.85,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Butifarro de lechón -  street sandwich",
+       "value": 2.97,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Inka Cola",
+       "value": 0.74,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "La Tiendacita (Pisco Sours)",
+       "value": 23.71,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Lima Point - 1 night",
+       "value": 9.01,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Ceviche de pescado y agua - Cevicheria Union",
+       "value": 7.42,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Bracelet from rando",
+       "value": 0.89,
+       "category": "S",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "MATE Museum",
+       "value": 2.98,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Water/beer at Pariwana bar",
+       "value": 3.73,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel meal",
+       "value": 4.77,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to airport",
+       "value": 16.39,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Flight to Cusco",
+       "value": 76.76,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to Millhouse",
+       "value": 10.78,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Exchange fee for 50 USD to Soles",
+       "value": 3.35,
+       "category": "M",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Bottled water large",
+       "value": 1.77,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Chifa Sipan",
+       "value": 5.92,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Movil bus Cusco to Lima",
+       "value": 54,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Cusco souvenirs (backpack, hat, pants)",
+       "value": 25.33,
+       "category": "S",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "MP Snacks",
+       "value": 2.81,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Lunch - fries/ham",
+       "value": 3.06,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Train change fee",
+       "value": 11,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Inca Kola",
+       "value": 2.35,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Postcards",
+       "value": 0.6,
+       "category": "P",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Lima Meal before airport",
+       "value": 10,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Uber to airport",
+       "value": 9.5,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Pastor Matt Jacobs (thought I was homeless and gave me money)",
+       "value": -50,
+       "category": "I",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Bus - Puno to Arequipa 6 hrs",
+       "value": 6.44,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "ATM Fee",
+       "value": 5,
+       "category": "M",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Bus - Arequipa to Lima 16 hrs",
+       "value": 22.22,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Chifa Dinner at Bus Station",
+       "value": 2.22,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Bathroom at Bus Station",
+       "value": 0.48,
+       "category": "M",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Powerade",
+       "value": 0.79,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Snacks",
+       "value": 1.75,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi from bus term to airport",
+       "value": 9.53,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Chinawok Airport",
+       "value": 6.32,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Cusqueña Beer",
+       "value": 4.12,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Pisco gift for Dad",
+       "value": 22,
+       "category": "P",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Malaria Pills",
+       "value": 31.23,
+       "category": "Pc",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Malaria Pills",
+       "value": 31.23,
+       "category": "Pc",
+       "continent": "SA",
+       "Location": "Pe",
+       "travel": "T"
+    },
+    {
+       "name": "Castillo Surfista Hostel 2N",
+       "value": 27.72,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Drinks at airport",
+       "value": 6,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Lima to Santiago flight",
+       "value": 190,
+       "category": "Tr",
+       "continent": "SA",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Heroes Station",
+       "value": 2.55,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Beer at lider",
+       "value": 3.57,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Pizza dinner",
+       "value": 10.6,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Empanada and beer in Bellavista",
+       "value": 9.88,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Bottle of water",
+       "value": 1,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "2 beers at Pepperland Bar",
+       "value": 8.5,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Condor bus to Valpo",
+       "value": 4.02,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Pajaritos Restroom",
+       "value": 0.75,
+       "category": "M",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Sandwich and water at Lider",
+       "value": 3.5,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to Casa Valparaiso",
+       "value": 2.98,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Walking Tour + Water (Valpo)",
+       "value": 11.92,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Empanada Heaven",
+       "value": 2.09,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Boat Tour Valpo",
+       "value": 4.47,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Escudo 6-pack Beer",
+       "value": 3.7,
+       "category": "G",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Casa Valpo - 2N",
+       "value": 23.56,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Instant Rice dinner",
+       "value": 1.04,
+       "category": "G",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Beach party beer and transport",
+       "value": 11.87,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Transportation (taxi + bus) from Valpo to Veramonte",
+       "value": 4.85,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries",
+       "value": 2.95,
+       "category": "G",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Veramonte Winery Tour",
+       "value": 18.47,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Condor bus from Veramonte to Valpo",
+       "value": 2.95,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Drink and dinner - La Viaje",
+       "value": 10.34,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Condor bus and Metro Valpo to Stgo",
+       "value": 7.56,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Gatorade at Virgen",
+       "value": 1.47,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "La Chascona - Pablo Neruda",
+       "value": 8.85,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Children",
+       "value": 1.47,
+       "category": "P",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "McFlurry",
+       "value": 1.92,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "RT Metro to Museo",
+       "value": 2,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Museo de Memoridad",
+       "value": 2.95,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Surfista - 2 N",
+       "value": 26.56,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner",
+       "value": 8.56,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Bus / Metro to Airport",
+       "value": 4.44,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Print Boarding Pass",
+       "value": 1,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Sbux sandwich at airport",
+       "value": 5.2,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Grey Kayak Tour",
+       "value": 300,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Meals PN Day 1",
+       "value": 12.5,
+       "category": "G",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "RT Bus to Torres del Paine",
+       "value": 22.83,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Two Entrances to Torres del Paine",
+       "value": 63.93,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Shuttle from Lago Amargo to Torres",
+       "value": 4.57,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Ferry from Paine Grande to Bus",
+       "value": 27.4,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Bus PN to PA",
+       "value": 9.13,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Beers at Paine",
+       "value": 9.13,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Lodging at Paine",
+       "value": 24.35,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Hot chocolate",
+       "value": 3.04,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "El Living  Burger, Pisco, and Desert",
+       "value": 15.22,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Amapolco Dinner",
+       "value": 24.2,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Public Transport",
+       "value": 3.65,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Luggage Storage",
+       "value": 10.65,
+       "category": "M",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Shrimp empanada San Pedro",
+       "value": 1.52,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Rustic Hostel - 1N",
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Last Hope - 3N",
+       "value": 38.64,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Carlitos Picada",
+       "value": 20,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Vertice Camp",
+       "value": 16,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "HW Reservation",
+       "value": 4,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Uber",
+       "value": 4.81,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Buenos Aires to El Calafate Flight",
+       "value": 212,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Tienda Leon bus + taxi to city",
+       "value": 15.59,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Big Mac Combo",
+       "value": 5.75,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Teatro Colon Tour",
+       "value": 16.2,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Street sandwich",
+       "value": 3.23,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Grapefruit drink",
+       "value": 1.62,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner at Mostanzo",
+       "value": 6.8,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Laundry detergent",
+       "value": 4.7,
+       "category": "Pc",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Coffee and creme brûlée with Gui",
+       "value": 10.63,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Siga la Vaca host meal",
+       "value": 44.39,
+       "category": "P",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Siga la Vaca host meal",
+       "value": 22.19,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Calafate to Puerto Natales (AE Patagonia Backpackers?)",
+       "value": 37.4,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Bus RT Calafate / El Chalten",
+       "value": 64.98,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Entry El Chalten",
+       "value": 21.2,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Thanksgiving Supper",
+       "value": 15,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Anada Lunch",
+       "value": 13.3,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Bike rental",
+       "value": 20,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Moreno Glacier Trek",
+       "value": 239,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Nature Reserve",
+       "value": 9.66,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Groceries",
+       "value": 11.39,
+       "category": "G",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Dinner at Cervecheria",
+       "value": 15.21,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Sandwiches",
+       "value": 3.21,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Bla",
+       "value": 40,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Bakery breakfast",
+       "value": 1.3,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel Glaciar in Calafate",
+       "value": 23,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "La Anomina Rio",
+       "value": 9.24,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Ananda Resto Bar",
+       "value": 11.96,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "HW Reservations",
+       "value": 5,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Ar",
+       "travel": "T"
+    },
+    {
+       "name": "Passport Mail",
+       "value": 6.5,
+       "category": "V",
+       "continent": "SA",
+       "travel": "T"
+    },
+    {
+       "name": "VISA Fee",
+       "value": 160,
+       "category": "V",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Passport Photos",
+       "value": 1,
+       "category": "V",
+       "continent": "SA",
+       "travel": "T"
+    },
+    {
+       "name": "Punta Arenas to Santiago Flight",
+       "value": 83,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Santiago to Calama  Flight",
+       "value": 58,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Ch",
+       "travel": "T"
+    },
+    {
+       "name": "Overnight Sworn Statement",
+       "value": 26.69,
+       "category": "V",
+       "continent": "SA",
+       "travel": "T"
+    },
+    {
+       "name": "Salar de Uyuni",
+       "value": 145,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Uyuni to La Paz",
+       "value": 28.09,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Taxi to San Pedro",
+       "value": 10.67,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Reserva Nacional",
+       "value": 25,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Thermal Fee",
+       "value": 1,
+       "category": "A",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Beer at Camp",
+       "value": 2,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Inca Cemetery San Juan",
+       "value": 2.5,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Shower at Salt Hostel",
+       "value": 1.67,
+       "category": "Pc",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Salt Isla Pescado",
+       "value": 5,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Tablecloth from market",
+       "value": 10,
+       "category": "S",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Baño",
+       "value": 0.33,
+       "category": "M",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Tip for your guide",
+       "value": 10,
+       "category": "E",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Street empanada",
+       "value": 0.45,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "La Paz Terminal Restroom - 2X",
+       "value": 0.16,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Wild Rover Hostel - 1 N",
+       "value": 10.6,
+       "category": "L",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Exit Tax",
+       "value": 0.33,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Bolivian Oven Mit",
+       "value": 3.5,
+       "category": "P",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Bus to Copa and Puno",
+       "value": 10,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Eli's Lunch in La Paz",
+       "value": 2.08,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Hostel dinner and 2 beers",
+       "value": 9.16,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Bus Terminal Tax -La Paz",
+       "value": 0.33,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Ferry to Copacabana",
+       "value": 0.33,
+       "category": "Tr",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    },
+    {
+       "name": "Vegan Lunch at Copacabana",
+       "value": 2.83,
+       "category": "D",
+       "continent": "SA",
+       "Location": "Bo",
+       "travel": "T"
+    }
+ ]
+}
