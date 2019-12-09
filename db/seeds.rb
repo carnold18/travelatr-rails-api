@@ -49,6 +49,15 @@ chile = Country.create(name: "chile", abbr_name: "ch")
 argentina = Country.create(name: "argentina", abbr_name: "ar")
 bolivia = Country.create(name: "bolivia", abbr_name: "bo")
 
+# create the join to hold the number of days a user visits one country
+
+days = [8,19,8,7,4,5,8,4,21,5,1,41,5,24,13,55,21,11,17,8,5]
+
+i = 0
+days.each do |trip_length|
+    Visit.create(days: trip_length, country: Country.all[i], user: user)
+    i +=1
+end
 
 # create expenses that belong to a user and a country
 # based on country name

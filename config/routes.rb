@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :visits
   resources :expenses
   get '/countries/:id', :to => 'countries#daily_average'
   # resources :countries
